@@ -44,6 +44,15 @@
 	</div>
 </section>
 <!-- //banner -->
+<!-- breadcrumbs chahiye toh rakh vrna line 47-55 nikal de -->
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+		<li class="breadcrumb-item active">
+			<a href="index.html">Home</a>
+		</li>
+	</ol>
+</nav>
+<!-- //breadcrumbs -->
 
 <!-- welcome -->
 <section class="welcome py-5" id="welcome">
