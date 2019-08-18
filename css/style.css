@@ -952,14 +952,23 @@ p.countdown-text {
   width: 50%;
 }
 .position-img1 {
+  display: flex;
   position: absolute;
   left: 11%;
   top: 0%;
+  bottom: 0%;
 }
 .position-img2 {
+  display: flex;
   position: absolute;
   right: 11%;
+  top: 0%;
   bottom: 0%;
+}
+.position-img1 > img,
+.position-img2 > img {
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 /*-- input form --*/

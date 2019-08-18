@@ -153,21 +153,21 @@
 <!-- wedding date -->
 <section class="section my-lg-5 py-5">
 	<div class="container py-md-5">
-		<h3 class="heading wedding text-light mb-2 text-center">Our Next Wedding Organizer Is On</h3>
-		<p class="countdown-text mx-auto text-center text-light mb-lg-5 mb-4">Aenean tristique, duiid sedet blandit elt ultricies, ligula elit interd ures turpis, at bibendum lib sed ipsum dolor.</p>	
 		<div class="row">
-			<div class="col-lg-7 mx-auto">
+			<div class="col-lg-7 mx-auto my-auto pb-4">
+				<h3 class="heading wedding text-light mb-2 text-center">Our Next Wedding Organizer Is On</h3>
+				<p class="countdown-text mx-auto text-center text-light mb-5">Aenean tristique, duiid sedet blandit elt ultricies, ligula elit interd ures turpis, at bibendum lib sed ipsum dolor.</p>	
 				<!--date-->
-				<div class="examples text-center">
+				<div class="examples mx-auto text-center text-light">
 					<h4>21 Dec, 2018.</h4>
 					<p>Venue : 2466H 5th Street Parking, King Block, New York City.</p>
 				</div>
 				<!--//date-->
 			</div>
-			<div class="position-img1">
+			<div class="position-img1 my-auto">
 				<img src="images/right.jpg" alt="" class="img-fluid"/>
 			</div>
-			<div class="position-img2">
+			<div class="position-img2 my-auto">
 				<img src="images/left.jpg" alt="" class="img-fluid"/>
 			</div>
 		</div>
