@@ -34,83 +34,6 @@
     <!-- //breadcrumbs -->
 
 
-
-<!-- welcome -->
-<section class="welcome py-5" id="welcome">
-	<div class="container py-md-5">
-		<h3 class="heading text-capitalize text-center mb-lg-5 mb-4"> we will plan every detail of your wedding </h3>
-		<div class="row welcome-grids">
-			<div class="col-lg-4 mb-lg-0 mb-5">
-				<h4 class="left-heading">Our Weddings Story</h4>
-				<p class="mb-3">Sed gravida dignissim magna idesn molestie. Nulla congue, ex init dictum lacinia, nisl est posuere nulla, nec eges tas leo mi id lorem. Maecenas sem nulla ex init dictu lacinia, Maecenas sem nulla. Sed gravida dignissim magna idesn en molestie</p>
-				<div class="welcome-button mt-4">
-					<a href="about.php">Read More</a>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6">
-				<div class="image1 mb-4">
-				<h4>Hair / Makeup</h4>
-					<p class="mt-3">Sed gravida dignissim magna idesn en molestie. Nulla congue, ex init dictu lacinia, Maecenas sem nulla</P>
-				</div>
-				<div class="image1">
-				<h4>Venue & Catering</h4>
-					<p class="mt-3">Sed gravida dignissim magna idesn en molestie. Nulla congue, ex init dictu lacinia, Maecenas sem nulla</P>
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-6 mt-sm-0 mt-4">
-				<div class="image1 mb-4">
-				<h4>Photo / Video </h4>
-					<p class="mt-3">Sed gravida dignissim magna idesn en molestie. Nulla congue, ex init dictu lacinia, Maecenas sem nulla</P>
-				</div>
-				<div class="image1">
-				<h4>Flowers & Music</h4>
-					<p class="mt-3">Sed gravida dignissim magna idesn en molestie. Nulla congue, ex init dictu lacinia, Maecenas sem nulla</P>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- welcome -->
-
-<!-- /stats -->
-<section class="stats_test">
-	<div class="wthree-different-dot1 py-5">
-	<div class="container py-3">
-		<h3 class="heading text-capitalize mb-lg-5 mb-4"> Our Company Facts </h3>
-		<div class="row">
-			<div class="col-12 text-center inner_stat_wthree_agileits">
-				<div class="row px-sm-0 px-3">
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid">
-						<p class="counter">450</p>
-						<h4>Weddings</h4>
-					</div>
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid1">
-						<p class="counter">1000</p>
-						<h4>Parties</h4>
-					</div>
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid2">
-						<p class="counter">145</p>
-						<h4>Events</h4>
-					</div>
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid3">
-						<p class="counter">986</p>
-						<h4>Registered</h4>
-					</div>
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid4">
-						<p class="counter">490</p>
-						<h4>Conducted</h4>
-					</div>
-					<div class="col-lg-2 col-sm-4 col-6 stats_left counter_grid5">
-						<p class="counter">560</p>
-						<h4>Happy Clients</h4>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- //stats -->
-
 <!-- about -->
 <section class="about py-5">
 	<div class="container py-sm-3">
@@ -140,9 +63,7 @@
 			<div class="row query-grids">
 				<div class="col-lg-5">
 					<h4 class="mb-3">Find Your Style</h4>
-					<p class="mb-3">Sed gravida dignissim magna idesn molestie. Nulla congue, ex init dictu lacinia, nislen est posuere nulla,
-					nec egestas leo miid sed lorem. Maecenas sem nulla. Maecenas risus enim, pharetra accumsan nulla vitae, mollis hendrerit orci.
-					Pellentesque nec purus eurts tortor molestie fringilla ut sit amet mauris. Maecenas mattis eleifend lacus non condimentum.</p>
+					<p class="mb-3">Find Your style as you need. we are providing wide range of services, like Wedding planning, Decorating & Catering, Braidal Makeup & Mehandi, Wedding Photography & Videography, DJ as well as Wedding Cards. We are also providing any type service occantional events.</p>
 					<a href="contact.php">Contact and Inquiry </a>
 				</div>
 			</div>
@@ -168,66 +89,7 @@
 
 <?php include('footer.php'); ?>
 
-<!-- popup for login -->
-<div id="login-popup" class="popup-effect">
-	<div class="popup">
-		<h5 class="modal-title text-uppercase">Login</h5>
-		<div class="login-form">
-			<form action="#" method="post" class="px-3 pt-3 pb-0">
-				<div class="form-group">
-					<label for="recipient-name" class="col-form-label">User Name</label>
-					<input type="email" class="form-control" placeholder="" name="Name" id="recipient-name" required="">
-				</div>
-				<div class="form-group">
-					<label for="recipient-name1" class="col-form-label">Password</label>
-					<input type="password" class="form-control" placeholder="" name="Name" id="recipient-name1" required="">
-				</div>
-				<div class="right-w3l">
-					<input type="submit" class="form-control" value="Login">
-				</div>
-			</form>
-
-		</div>
-		<a class="close" href="#">&times;</a>
-	</div>
-</div>
-<!-- popup for login -->
-
-<!-- popup for register -->
-<div id="register-popup" class="popup-effect">
-	<div class="popup">
-		<h5 class="modal-title text-uppercase">Register</h5>
-		<div class="lregister-form">
-			<form action="#" method="post" class="px-3 pt-3 pb-0">
-				<div class="form-group">
-					<label for="recipient-name" class="col-form-label">First Name</label>
-					<input type="text" class="form-control" placeholder="" name="Name" id="recipient-name2" required="">
-				</div>
-				<div class="form-group">
-					<label for="recipient-name" class="col-form-label">Last Name</label>
-					<input type="text" class="form-control" placeholder="" name="Name" id="recipient-name3" required="">
-				</div>
-				<div class="form-group">
-					<label for="recipient-name" class="col-form-label">Email id</label>
-					<input type="email" class="form-control" placeholder="" name="Name" id="recipient-name4" required="">
-				</div>
-				<div class="form-group">
-					<label for="recipient-name" class="col-form-label">Mobile Number</label>
-					<input type="text" class="form-control" placeholder="" name="Name" id="recipient-name5" required="">
-				</div>
-				<div class="form-group">
-					<label for="recipient-name1" class="col-form-label">Password</label>
-					<input type="password" class="form-control" placeholder="" name="Name" id="recipient-name6" required="">
-				</div>
-				<div class="right-w3l">
-					<input type="submit" class="form-control" value="Get Started">
-				</div>
-			</form>
-		</div>
-		<a class="close" href="#">&times;</a>
-	</div>
-</div>
-<!-- popup for register -->
+<?php // include('login-reg.php'); ?>
 
 </body>
 </html>

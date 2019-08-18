@@ -1,7 +1,7 @@
 <!-- header -->
 <header>
 	<div class="container">
-		<!-- top header -->
+		<!-- top header 
 		<section class="row top_header pt-3">
 			<div class="col-lg-6 buttons ml-auto">
 				<p><span class="fa fa-phone"></span> +12 8976 2334</p>
@@ -9,7 +9,7 @@
 				<a class="btn btn-info1 btn-lg-block w3ls-btn1 px-sm-4 px-3 text-capitalize" href="#register-popup">Register</a>
 			</div>
 		</section>
-		<!-- top header -->
+		     top header -->
 		<!-- nav -->
 		<nav class="py-3">
         <div id="logo">
